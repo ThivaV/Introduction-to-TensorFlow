@@ -1,0 +1,10 @@
+python==3.8
+tensorflow
+tensorflow-datasets
+Pillow
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+opencv-python
