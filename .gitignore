@@ -130,3 +130,7 @@ dmypy.json
 
 # ignore DataSpell config files
 .idea/
+
+horse-or-human.zip
+horse-or-human
+horse-or-human/
