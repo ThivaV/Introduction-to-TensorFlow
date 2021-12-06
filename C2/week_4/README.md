@@ -6,6 +6,7 @@
 
     * https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C2/W4/ungraded_lab/C2_W4_Lab_1_multi_class_classifier.ipynb
     * [sign-language-mnist](https://www.kaggle.com/datamunge/sign-language-mnist)
+    * [dogs-vs-cats](https://www.kaggle.com/c/dogs-vs-cats/code)
 
 * What is DNN ?
 * [Introducing the Rock-Paper-Scissors dataset](http://www.laurencemoroney.com/rock-paper-scissors-dataset/)
