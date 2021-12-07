@@ -121,8 +121,6 @@ weights_2 = e_2.get_weights()[0]
 print(weights_2.shape)  # shape: (vocab_size, embedding_dim)
 # %%
 # Save vectors
-import io
-
 out_v = io.open('/vector_meta_data/vecs_1.tsv', 'w', encoding='utf-8')
 out_m = io.open('/vector_meta_data/meta_1.tsv', 'w', encoding='utf-8')
 for word_num in range(1, vocab_size):
