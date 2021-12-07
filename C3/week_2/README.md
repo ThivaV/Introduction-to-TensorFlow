@@ -20,5 +20,5 @@
     ![Large Movie Review Dataset](/img/C3/C3_Large_Dataset.png)
 
 * How word embedding works ?
-* Difference between Flatten() & GlobalAveragePooling1D() layers ?
+* Difference between `Flatten()` & `GlobalAveragePooling1D()` layers ?
 * 
