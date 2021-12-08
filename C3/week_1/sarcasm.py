@@ -5,7 +5,7 @@
 import json
 from tensorflow.keras.preprocessing import sequence
 # %%
-with open("./sarcasm.json", 'r') as f:
+with open("../datasets/sarcasm.json", 'r') as f:
     datastore = json.load(f)
 
 sentences = []
