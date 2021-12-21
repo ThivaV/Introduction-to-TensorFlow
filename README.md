@@ -16,3 +16,7 @@ Repositories:
 * [Neural Network and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0) by DeepLearningAI (Youtube)
 * [Responsive AI Practices](https://ai.google/responsibilities/responsible-ai-practices/) by Google AI
 
+* Understand following algorithms:
+    * RNN
+    * LSTM
+    * CNN
